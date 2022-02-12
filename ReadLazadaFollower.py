@@ -8,8 +8,6 @@ import json
 import math
 import requests
 
-# 创建一个文件存储评论及其他数据
-
 targetFollowerNumber=4990
 
 myfile = open("tm_fz_gn_1_1_1.txt","a")
